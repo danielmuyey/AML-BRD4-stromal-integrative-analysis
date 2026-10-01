@@ -480,3 +480,6 @@ cat("ligand-receptor analyses are not treated as completed results.\n")
 
 cat("\nSession information:\n")
 print(sessionInfo())
+[![DOI](https://zenodo.org/badge/1399308840.svg)](https://doi.org/10.5281/zenodo.23076464)
+
+
